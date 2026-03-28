@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 20,
+    "currency": "USD",
+    "billing": "monthly",
+    "description": "For beginners",
+    "features": [
+      "Full gym equipment access",
+      "Locker room access",
+      "Standard operating hours",
+      "1 free fitness assessment",
+      "Access to cardio zone",
+      "Basic support from trainers",
+      "Mobile app access",
+      "Water station access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 45,
+    "currency": "USD",
+    "billing": "monthly",
+    "description": "For regular users",
+    "features": [
+      "All Basic features",
+      "Access to group classes (Yoga, HIIT, Zumba)",
+      "Extended gym hours",
+      "2 guest passes per month",
+      "Monthly progress tracking",
+      "Access to strength training zone",
+      "Discounts on workshops",
+      "Priority class booking",
+      "Body composition analysis"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 80,
+    "currency": "USD",
+    "billing": "monthly",
+    "description": "For advanced users",
+    "features": [
+      "All Standard features",
+      "Unlimited group classes",
+      "Personal trainer sessions (4/month)",
+      "Customized workout plans",
+      "Diet & nutrition plan",
+      "24/7 gym access",
+      "Spa & sauna access",
+      "Dedicated locker",
+      "Priority support",
+      "Free gym merchandise",
+      "Access to VIP lounge",
+      "Recovery zone (massage/foam rolling)"
+    ]
+  }
+]
